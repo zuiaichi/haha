@@ -1,2 +1,3 @@
 ﻿添加wa
  从github服务器添加信息
+checkout
